@@ -1,0 +1,16 @@
+{
+  "main.css": "/weatherapi/static/css/main.b96bffdf.chunk.css",
+  "main.js": "/weatherapi/static/js/main.eb9a8003.chunk.js",
+  "main.js.map": "/weatherapi/static/js/main.eb9a8003.chunk.js.map",
+  "runtime~main.js": "/weatherapi/static/js/runtime~main.079fff7a.js",
+  "runtime~main.js.map": "/weatherapi/static/js/runtime~main.079fff7a.js.map",
+  "static/css/2.fc325b92.chunk.css": "/weatherapi/static/css/2.fc325b92.chunk.css",
+  "static/js/2.f6c72513.chunk.js": "/weatherapi/static/js/2.f6c72513.chunk.js",
+  "static/js/2.f6c72513.chunk.js.map": "/weatherapi/static/js/2.f6c72513.chunk.js.map",
+  "index.html": "/weatherapi/index.html",
+  "precache-manifest.195cf7095f8c82a6f9aeffe53caed115.js": "/weatherapi/precache-manifest.195cf7095f8c82a6f9aeffe53caed115.js",
+  "service-worker.js": "/weatherapi/service-worker.js",
+  "static/css/2.fc325b92.chunk.css.map": "/weatherapi/static/css/2.fc325b92.chunk.css.map",
+  "static/css/main.b96bffdf.chunk.css.map": "/weatherapi/static/css/main.b96bffdf.chunk.css.map",
+  "static/media/App.css": "/weatherapi/static/media/landing1.89241618.jpg"
+}
