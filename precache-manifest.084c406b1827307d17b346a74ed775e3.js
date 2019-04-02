@@ -1,14 +1,14 @@
 self.__precacheManifest = [
   {
-    "revision": "8924161871aa5ccf66975f146a18a66d",
-    "url": "/iweather/static/media/landing1.89241618.jpg"
+    "revision": "0b8093e30ace9c7fce1c5a59fd64b3c0",
+    "url": "/iweather/static/media/landing1.0b8093e3.jpg"
   },
   {
     "revision": "82f6dfb9c3e437ba79db",
     "url": "/iweather/static/js/runtime~main.3e126c3f.js"
   },
   {
-    "revision": "e1a24fe1158125a73385",
+    "revision": "d73b87d51adfbf52b62a",
     "url": "/iweather/static/js/main.eb9a8003.chunk.js"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = [
     "url": "/iweather/static/js/2.f6c72513.chunk.js"
   },
   {
-    "revision": "e1a24fe1158125a73385",
-    "url": "/iweather/static/css/main.6ea03ae3.chunk.css"
+    "revision": "d73b87d51adfbf52b62a",
+    "url": "/iweather/static/css/main.5f5a019b.chunk.css"
   },
   {
     "revision": "0f6aa335f92e98620d65",
     "url": "/iweather/static/css/2.fc325b92.chunk.css"
   },
   {
-    "revision": "109cf2001e46156a1cefc5ac96b78212",
+    "revision": "3caa5f0e27e2fce3f4dc5a06a4b48572",
     "url": "/iweather/index.html"
   }
 ];
