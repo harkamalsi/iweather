@@ -1,5 +1,5 @@
 https://harkamalsi.github.io/iWeather/ |
 ---------------------------------------|
 
-# weatherapi
+# iWeather
 React Weather API
